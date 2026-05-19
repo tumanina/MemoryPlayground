@@ -1,2 +1,12 @@
 # MemoryPlayground
-.Net memory optimization approaches
+
+## Span<T>
+
+### Csv files and logs parsing
+
+### Masking sensitive data
+
+### Validation
+
+
+### Templates
