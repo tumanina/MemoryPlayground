@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MemoryPlayground.LogSanitizer/MemoryPlayground.LogSanitizer.csproj" Id="64dcf6de-82de-46ad-845a-881d1e4b4de5" />
   <Project Path="MemoryPlayground.Parser/MemoryPlayground.Parser.csproj" />
 </Solution>
